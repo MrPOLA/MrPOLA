@@ -35,7 +35,7 @@ Because it found out the database was seeing multiple tables.**
 <img src="https://nirzak-streak-stats.vercel.app/?user=MrPOLA&theme=dark&hide_border=false" alt="Streak Stats" />
 </p>
 
-<h5 align="left">✍️ Random Dev Quote</h5>
+<h3 align="left">Random Dev Quote</h3>
 <p align="middle">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" width="70%" />
 </p>
