@@ -1,4 +1,4 @@
-# Hi 👋, I'm Akhilesh P
+# Hi 👋, I'm Akhilesh
 
 ### Shipping SaaS from database to deployment
 
@@ -10,9 +10,11 @@
 
 👯 I'm looking to collaborate on **open-source projects, SaaS products, system design, and scalable full-stack architectures**
 
-🤝 I'm looking for help with **learning Three.js and understanding how experienced engineers design robust database schemas and scalable system architectures**
+🤝 I’m looking for help with **learning Three.js** and **robust database & system design**
 
 💬 Ask me about **React, Node.js, SQL and Web Development**
+
+💡 Open to tips, tricks, and best practices from experienced engineers
 
 📫 How to reach me **akhileshpola1614@gmail.com**
 
