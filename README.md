@@ -2,7 +2,9 @@
 
 ### Shipping SaaS from database to deployment
 
-![](https://komarev.com/ghpvc/?username=MrPOLA&style=flat-square&color=blueviolet)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=MrPOLA&label=Profile%20Views&color=232323&style=for-the-badge" alt="MrPOLA" />
+</p>
 
 - 🔭 I'm currently working on **a production-grade SaaS for workflow & operations management**
 
