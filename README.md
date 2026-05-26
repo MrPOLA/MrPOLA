@@ -108,9 +108,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrPOLA&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <a href="https://github.com/MrPOLA">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrPOLA&theme=github_dark" alt="Profile Summary" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrPOLA&theme=github_dark" alt="Repos Per Language" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrPOLA&layout=compact&theme=dark&hide_border=false&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrPOLA&theme=github_dark" alt="Most Commit Language" />
 </p>
 
 ---
