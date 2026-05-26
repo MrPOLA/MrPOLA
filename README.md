@@ -21,9 +21,7 @@
 <a href="https://www.linkedin.com/in/pola-akhilesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pola-akhilesh" height="30" width="40" /></a>
 <a href="https://codepen.io/Akhilesh_P" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Akhilesh_P" height="30" width="40" /></a>
 <a href="https://leetcode.com/Akhilesh_Pola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Akhilesh Pola" height="30" width="40" /></a>
-</p>
-
-<div align="center">
+</p> <div align="center">
 <img src="https://komarev.com/ghpvc/?username=MrPOLA&label=Profile+Views&color=232323&style=for-the-badge" alt="Profile Views" />
 </div>
 
