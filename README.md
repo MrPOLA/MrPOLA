@@ -1,12 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Akhilesh%20Pola&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Shipping%20SaaS%20from%20database%20to%20deployment&descAlignY=58&descSize=18&descColor=cccccc" width="200%" alt="Header"/>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=MrPOLA&label=Profile+Views&color=232323&style=for-the-badge" alt="Profile Views" />
-</div>
-
 ---
 
 ## 👨‍💻 About Me
+
+<img src="https://komarev.com/ghpvc/?username=MrPOLA&label=Profile+Views&color=232323&style=for-the-badge" alt="Profile Views" />
 
 - 🚀 &nbsp;Building a **production-grade SaaS** for workflow & operations management
 - 🧠 &nbsp;Currently learning **Three.js**, system design & conflict-free normalized schemas
