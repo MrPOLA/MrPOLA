@@ -120,7 +120,7 @@
 ## 🧩 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/DL6o2bVNQq?theme=dark&font=Rajdhani&ext=contest" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/DL6o2bVNQq?theme=dark&font=Outfit&ext=contest" alt="LeetCode Stats" />
 </p>
 
 <p align="center">
