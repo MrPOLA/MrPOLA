@@ -1,9 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=300&section=header&text=Akhilesh%20Pola&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Shipping%20SaaS%20from%20database%20to%20deployment&descAlignY=58&descSize=18&descColor=cccccc" width="100%" alt="Header"/>
+
 <div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=500&section=header&text=Akhilesh%20Pola&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Shipping%20SaaS%20from%20database%20to%20deployment&descAlignY=58&descSize=18&descColor=cccccc)
-
 <img src="https://komarev.com/ghpvc/?username=MrPOLA&label=Profile+Views&color=232323&style=for-the-badge" alt="Profile Views" />
-
 </div>
 
 ---
@@ -127,4 +125,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" alt="Footer"/>
