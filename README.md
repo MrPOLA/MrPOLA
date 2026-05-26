@@ -117,6 +117,18 @@
 
 ---
 
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/DL6o2bVNQq?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/DL6o2bVNQq?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Heatmap" />
+</p>
+
+---
+
 ## 💬 Random Dev Quote
 
 <p align="center">
