@@ -34,7 +34,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=MrPOLA&theme=dark&hide_border=false" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=MrPOLA&theme=dark&hide_border=false" alt="Streak Stats" />
 </p>
 
 <h3 align="left">Random Dev Quote</h3>
